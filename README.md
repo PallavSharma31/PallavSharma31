@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Js and Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://pallavsharma31.github.io/Portfolio_Website/](https://github.com/PallavSharma31/)
+- 👨‍💻 All of my projects are available at [https://github.com/PallavSharma31/](https://github.com/PallavSharma31/)
 
 - 📝 I regularly write articles on GeeksForGeeks,Analytics Vidhya and TutorialsPoint.
 
