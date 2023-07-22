@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PallavSharma31/](https://github.com/PallavSharma31/)
 
-- 📝 I regularly write articles on GeeksForGeeks,Analytics Vidhya and TutorialsPoint.
+- 📝 I regularly write articles on [GeeksForGeeks](https://www.geeksforgeeks.org/discriminant-function-analysis-using-r/)
 
 - 📫 How to reach me **pallavsharma2727@gmail.com**
 
