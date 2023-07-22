@@ -7,8 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PallavSharma31/](https://github.com/PallavSharma31/)
 
-- 📝 I regularly write articles on [GeeksForGeeks](https://www.geeksforgeeks.org/discriminant-function-analysis-using-r/)
-      1. 
+- 📝 I regularly write articles on [GeeksForGeeks](https://www.geeksforgeeks.org/discriminant-function-analysis-using-r/),[Analytics Vidhya](https://www.analyticsvidhya.com/blog/2023/02/how-to-save-and-load-machine-learning-models-in-python-using-joblib-library) and [TutorialsPoint]
 
 - 📫 How to reach me **pallavsharma2727@gmail.com**
 
