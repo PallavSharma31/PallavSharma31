@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pallavsharma31.github.io/Portfolio_Website/](https://pallavsharma31.github.io/Portfolio_Website/)
 
-- 📝 I regularly write articles on [GeeksForGeeks,Analytics Vidhya and TutorialsPoint](GeeksForGeeks,Analytics Vidhya and TutorialsPoint)
+- 📝 I regularly write articles on GeeksForGeeks,Analytics Vidhya and TutorialsPoint.
 
 - 📫 How to reach me **pallavsharma2727@gmail.com**
 
